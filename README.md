@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-##### 🔭 I’m currently working on Human Activity Recognition and Computer Vision
+#### 🔭 I’m currently working on Human Activity Recognition and Computer Vision
