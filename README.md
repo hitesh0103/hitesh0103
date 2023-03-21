@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-### 🔭 I’m currently working on Human Activity Recognition and Computer Vision
-#### I have plans to work on ground breaking research in recent years, feel free to collaborate with me. Trust me, it will be fun.
+### 🔭 Hope you are doing well.
+#### See you again!
